@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Plecak", "Plecak\Plecak.csproj", "{8687613E-DEBA-4D5B-A98E-3BEC8D632D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9B73E4E5-0889-421C-AD29-4B1C90AD12B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8687613E-DEBA-4D5B-A98E-3BEC8D632D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8687613E-DEBA-4D5B-A98E-3BEC8D632D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8687613E-DEBA-4D5B-A98E-3BEC8D632D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8687613E-DEBA-4D5B-A98E-3BEC8D632D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B73E4E5-0889-421C-AD29-4B1C90AD12B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B73E4E5-0889-421C-AD29-4B1C90AD12B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B73E4E5-0889-421C-AD29-4B1C90AD12B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B73E4E5-0889-421C-AD29-4B1C90AD12B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5467ACA0-8D8D-4098-8E04-A3B71F90D88B}
+	EndGlobalSection
+EndGlobal
